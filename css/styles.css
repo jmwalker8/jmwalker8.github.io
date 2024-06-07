@@ -4,12 +4,12 @@
 }
 
 body{
-    background-color: black;
+    background-color: #fafafa;
 }
 
 
 h1, p {
-    color: white;
+    color: black;
     font-family: Arial; 
     text-align: center;
     padding-top: 50px;
